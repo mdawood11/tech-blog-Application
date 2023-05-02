@@ -1,5 +1,7 @@
 # Blog Posting Application with User Authentication and Authorization
 
+[Deployed Link](https://tech-blog-application-backend.herokuapp.com/)
+
 This is a backend application project that allows users to post a blog. Users are able to create accounts with secure passwords that are hashed and stored in the database. Each user can view posts and go to their dashboard to check comments on their posts. If a user is inactive for too long, the system will log them off, and they need to re-login to regain access.
 
 ## Technologies Used
@@ -36,4 +38,6 @@ To use this application, follow these steps:
 4. To view your posts and comments, click on the "My Posts" button on the dashboard page.
 5. To view all posts and comments, click on the "All Posts" button on the dashboard page.
 
-![Screenshot]()
+![Demo](./asset/tech-blog-demo.gif)
+
+### Created with ❤️ by Mohamad Ghaznawy
